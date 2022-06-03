@@ -1,0 +1,32 @@
+details {
+    background-color: coral;
+}
+
+.principal {
+        background-color: aquamarine;
+
+    }
+.parraforesaltado {
+    font-size: 24px;
+    padding: 48px;
+    border: double 6px green;
+    border-radius : 10px;
+    background-color: coral;
+}
+
+#parrafoEspecial {
+    background-color: cornflowerblue;
+    border-radius: 80px;
+    padding: 50px;
+    
+}
+
+#parrafoEspecial:hover {
+    background-color: blueviolet;
+    border-radius:80px;
+    padding: 50px;
+}
+p:hover{
+    text-decoration: underline;
+    transform: scale(120%);
+}
